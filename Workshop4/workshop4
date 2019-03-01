@@ -1,0 +1,14 @@
+Task 1: Re-write the program hangman, in your previous workshop (workshop –2). The program reads the words stored in a text 
+file named hangman.txt. 
+Words are delimited by spaces.
+
+Task 2:Write a program that prompts the user to enter a file name and displays the occurrences of each letter in the file. 
+Letters are case-insensitive.
+
+Task 3: Every seven-letter phone number corresponds to many different seven-letter words, but mostof these words represent unrecognizable 
+juxtapositions of letters. It’s possible, however, that theowner of a barbershop would be pleased to know that the shop’s telephone
+number, 424-7288, correspondsto “HAIRCUT.” A veterinarian with the phone number 738-2273 would be pleased toknow that the number 
+corresponds to the letters “PETCARE.” An automotive dealership would bepleased to know that the dealership number, 639-2277, 
+corresponds to “NEWCARS.”Your task is to write a program that, given a seven-digit number, write to a fileevery possible 
+seven-letter word combination corresponding to that number. There are 2,187 (37)such combinations. Avoid phone numbers with the 
+digits 0 and 1.
